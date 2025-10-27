@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Implementation Notes](#implementation-notes)
 - [Try This](#try-this)
 - [Navigation](#navigation)
 
@@ -29,6 +30,10 @@
 - Manage multiwindow state sharing and menu bar app lifecycles.
 
 Examples: [System Interaction](../examples/System-Interaction.score.teatro) (drag/drop, NSOpenPanel, bookmarks), [Focus Shift](../examples/Focus-Shift.score.teatro) (tempo/animation), [Live Direction](../examples/Live-Direction.score.teatro) (protocol).
+
+## Implementation Notes
+- Drag & Drop (sandboxed): Accept only needed UTTypes; prefer `NSItemProvider` asynchronous loading. Validate security-scoped URLs before use; never assume write permission from a drop. Provide clear hover/target affordances and revert on cancel.
+- NSOpenPanel + Bookmarks: Request minimal allowed content types. After selection, call `startAccessingSecurityScopedResource`, persist a bookmark for future access, and always `stopAccessing…` when done. Handle stale bookmarks by re-prompting politely and updating storage.
 
 ## Try This
 - Describe an animated drag/drop import with implicit vs explicit animation.
