@@ -8,7 +8,7 @@ This repository packages the full **Teatro prompt language** we developed to con
 
 ## What’s inside
 
-- `parts/` — Sixteen chapters (I–XVI) as focused guides.
+- `parts/` — Sixteen chapters (1–16) as focused guides.
 - `quick-reference/` — A concise one-pager for daily use.
 - `examples/` — Example Teatro score(s) to start from.
 - `SUMMARY.md` — Table of contents with links.
@@ -18,11 +18,33 @@ This repository packages the full **Teatro prompt language** we developed to con
 
 ## How to use
 
-1. Start with **[Part XV – Integrative Summary](parts/part-15.md)** to see the whole map.
+1. Start with **[Part 15 – Integrative Summary](parts/part-15.md)** to see the whole map.
 2. Keep **[Teatro Quick-Reference Card](quick-reference/teatro-quick-reference.md)** open while working.
-3. When exploring expressive design, read **[Part VIII – Stage Dynamics](parts/part-08.md)** and **[Part X – Expressive Operators](parts/part-10.md)**.
-4. When shaping narrative/flow, use **[Part XIII – Cinematography](parts/part-13.md)** and **[Part XIV – Montage](parts/part-14.md)**.
-5. To learn efficiently, follow **[Part XVI – Learnability Framework](parts/part-16.md)**.
+3. When exploring expressive design, read **[Part 8 – Stage Dynamics](parts/part-08.md)** and **[Part 10 – Expressive Operators](parts/part-10.md)**.
+4. When shaping narrative/flow, use **[Part 13 – Cinematography](parts/part-13.md)** and **[Part 14 – Montage](parts/part-14.md)**.
+5. To learn efficiently, follow **[Part 16 – Learnability Framework](parts/part-16.md)**.
+
+---
+
+## Choose Your Path
+
+- Builder Track
+  - Start: [Part 01 – macOS GUI Lingo](parts/part-01.md) → [Part 02](parts/part-02.md)
+  - Compose: [Part 09 – Score Format](parts/part-09.md)
+  - Daily use: [Quick-Reference](quick-reference/teatro-quick-reference.md)
+  - Big picture: [Part 15 – Integrative Summary](parts/part-15.md)
+
+- Expressive Track
+  - Dynamics: [Part 08 – Stage Dynamics](parts/part-08.md)
+  - Operators: [Part 10 – Expressive Operators](parts/part-10.md)
+  - Cinematics: [Part 13 – Cinematography](parts/part-13.md)
+  - Montage: [Part 14 – Narrative Montage](parts/part-14.md)
+
+- Conductor Track
+  - Protocol: [Part 06 – Conversational Protocol](parts/part-06.md)
+  - Ensemble: [Part 11 – Conductor’s Layer](parts/part-11.md)
+  - Reflection: [Part 12 – Reflective Playback](parts/part-12.md)
+  - Synthesis: [Part 15 – Integrative Summary](parts/part-15.md)
 
 > Minimal mantra: **Stage · Light · Tempo · Camera · Montage**
 
