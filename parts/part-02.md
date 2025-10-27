@@ -28,7 +28,7 @@
 - Understand sandbox constraints for files and security-scoped bookmarks.
 - Manage multiwindow state sharing and menu bar app lifecycles.
 
-Examples: [Focus Shift](../examples/Focus-Shift.score.teatro) (tempo/animation), [Live Direction](../examples/Live-Direction.score.teatro) (protocol).
+Examples: [System Interaction](../examples/System-Interaction.score.teatro) (drag/drop, NSOpenPanel, bookmarks), [Focus Shift](../examples/Focus-Shift.score.teatro) (tempo/animation), [Live Direction](../examples/Live-Direction.score.teatro) (protocol).
 
 ## Try This
 - Describe an animated drag/drop import with implicit vs explicit animation.

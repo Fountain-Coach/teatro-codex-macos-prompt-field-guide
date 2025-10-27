@@ -1,0 +1,41 @@
+# Teatro Score: “System Interaction”
+@version 1.0
+@date 2025-10-27
+@palette system
+@tempo ♩
+@register technical
+@anchor app
+
+ACT I — “Import”
+Scene 1 — “Drag & Drop”
+@camera(MS)
+F1 :: ♪ ☀ pulse ∧ @1.2s
+    commentary: accentuate drop target on hover
+    technical: accept UTIs [public.json, public.jpeg]
+    technical: sandbox access = read-only (scoped)
+    operator: ⧉ focus ↑ @1.5x
+
+Scene 2 — “Open Panel”
+@camera(CU)
+F2 :: ♩ ☁ steady — @2s
+    commentary: present NSOpenPanel for single file selection
+    technical: beginAccessingSecurityScopedResource → bookmark
+    technical: persist bookmark (AppStorage/Keychain)
+
+Curtain — ◎
+
+ACT II — “Processing”
+Scene 1 — “Progress”
+@camera(MS)
+F3 :: ♪ ☀ pulseS @2s
+    commentary: determinate progress with cancel affordance
+    technical: NSProgress; handle sandbox revocation gracefully
+
+Scene 2 — “Completion”
+@camera(MS)
+F4 :: 𝄐 ☀ still — @1s
+    commentary: reveal results; provide re-open and recent items
+    technical: stopAccessingSecurityScopedResource; update recents
+
+Curtain — ✶
+

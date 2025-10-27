@@ -42,4 +42,12 @@ This folder contains small Teatro scores that demonstrate the language in contex
   - Conductor’s Layer — see Part 11 (../parts/part-11.md)
   - Timeline control and rehearsal variants
 
+## “System Interaction”
+- File: `System-Interaction.score.teatro`
+- Focus: drag & drop, NSOpenPanel with security-scoped bookmarks, progress, recents
+- Concepts illustrated:
+  - Advanced system interaction — see Part 02 (../parts/part-02.md)
+  - Tempo/feedback pacing — see Part 08 (../parts/part-08.md)
+  - Recording and recall (recents/memory) — see Part 12 (../parts/part-12.md)
+
 [Back to Summary](../SUMMARY.md) · [Home](../README.md)
