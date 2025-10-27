@@ -2,6 +2,12 @@
 
 [Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 04](part-04.md) · [Part 06 →](part-06.md)
 
+## Contents
+- [Overview](#overview)
+- [Navigation](#navigation)
+
+## Overview
+
 **Bilingual mapping:** SwiftUI terms ↔ Teatro metaphors.
 
 **Examples:**
@@ -10,7 +16,7 @@
 - `@State` ↔ actor’s inner mood; `@Binding` ↔ shared line of dialogue.
 - `CommandGroup` ↔ cue sheet; `withAnimation` ↔ stage cue for motion.
 - `NSHostingView` ↔ translator between stages.
-
+## Navigation
 
 ---
 [← Part 04](part-04.md) · [Home](../README.md) · [Part 06 →](part-06.md)

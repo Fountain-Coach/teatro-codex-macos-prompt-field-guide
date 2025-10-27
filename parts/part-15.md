@@ -2,6 +2,12 @@
 
 [Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 14](part-14.md) · [Part 16 →](part-16.md)
 
+## Contents
+- [Overview](#overview)
+- [Navigation](#navigation)
+
+## Overview
+
 **Three planes:** Structural (what exists) · Expressive (how it behaves) · Cinematic (how it’s perceived).
 
 **Five anchors:** Stage · Light · Tempo · Camera · Montage.
@@ -15,7 +21,7 @@
 commentary: The interface exhales into focus.
 Curtain — ◎
 ```
-
+## Navigation
 
 ---
 [← Part 14](part-14.md) · [Home](../README.md) · [Part 16 →](part-16.md)

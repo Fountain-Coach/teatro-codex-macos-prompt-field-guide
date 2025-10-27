@@ -1,0 +1,47 @@
+# Teatro Score: “Live Direction”
+@version 1.0
+@date 2025-10-27
+@palette workshop
+@tempo ♪
+@register technical
+@anchor session
+
+SESSION — “Dialogue with the Performer”
+Scene 1 — “Establish”
+@camera(MS)
+F1 :: ♪ ☁ steady — @2s
+    commentary: begin calmly, neutral lighting
+    direction: focus on stage
+
+Scene 2 — “Variant”
+@camera(MS)
+F2 :: ♪ ☀ pulse ∧ @1.5s
+    commentary: try a brighter, quicker variant
+    direction: rehearse variant
+
+Scene 3 — “Freeze & Branch”
+@camera(CU)
+F3 :: ♩ ☀ steady — @1s
+    commentary: lock this frame for comparison
+    direction: freeze frame 3; restore frame 2
+
+Scene 4 — “Shift Register”
+@camera(MS)
+F4 :: ♩ ☁ drift — @2s
+    commentary: discuss technical specifics
+    direction: shift register → technical
+
+Scene 5 — “Timeline Control”
+@camera(MS)
+F5 :: ♪ ☁ steady — @1.2s
+    commentary: faster iteration
+    direction: compress timeline @0.8
+
+Scene 6 — “Clear Stage”
+@camera(WS)
+F6 :: 𝄐 🌑 still — @0.5s
+    commentary: clear mental buffer
+    direction: wipe stage
+
+Curtain — ◎
+

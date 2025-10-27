@@ -2,6 +2,12 @@
 
 [Home](../README.md) · [Summary](../SUMMARY.md) · [Part 02 →](part-02.md)
 
+## Contents
+- [Overview](#overview)
+- [Navigation](#navigation)
+
+## Overview
+
 **Goal:** Speak to Codex in clear, compiler-style prompts for macOS GUI creation (no code).
 
 **Key prompts:**
@@ -16,7 +22,7 @@
 - “Outline how to present NSOpenPanel in a sandboxed SwiftUI app.”
 
 **Use this first:** frame conversations with Intent → Structure → Behavior → Context.
-
+## Navigation
 
 ---
 [Home](../README.md) · [Part 02 →](part-02.md)

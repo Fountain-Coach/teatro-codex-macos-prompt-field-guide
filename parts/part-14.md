@@ -2,6 +2,12 @@
 
 [Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 13](part-13.md) · [Part 15 →](part-15.md)
 
+## Contents
+- [Overview](#overview)
+- [Navigation](#navigation)
+
+## Overview
+
 **Types:** continuity · contrast · intellectual · rhythmic · associative
 
 **Grammar:** `Scene A ⇄ Scene B` with `relation: contrast|echo|cause|memory`
@@ -11,7 +17,7 @@
 **Operators:** ∑ accumulate · Δ shift · ⟳ recur · ∂ partial echo
 
 **Patterns:** loop · branch · spiral · mirror
-
+## Navigation
 
 ---
 [← Part 13](part-13.md) · [Home](../README.md) · [Part 15 →](part-15.md)

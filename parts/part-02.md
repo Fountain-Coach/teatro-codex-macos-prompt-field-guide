@@ -2,6 +2,12 @@
 
 [Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 01](part-01.md) · [Part 03 →](part-03.md)
 
+## Contents
+- [Overview](#overview)
+- [Navigation](#navigation)
+
+## Overview
+
 **Domains:** animation, gestures, drag/drop, accessibility, sandbox, multiwindow, menubar, testing.
 
 **Prompts:**
@@ -13,7 +19,7 @@
 - Multiwindow: “Describe strategies to share state across scenes.”
 - Menu bar: “Explain lifecycle of a MenuBarExtra app (dockless).”
 - Testing: “Outline UI tests for menu commands and windows.”
-
+## Navigation
 
 ---
 [← Part 01](part-01.md) · [Home](../README.md) · [Part 03 →](part-03.md)

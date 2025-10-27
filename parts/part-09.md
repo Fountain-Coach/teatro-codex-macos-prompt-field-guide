@@ -2,6 +2,12 @@
 
 [Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 08](part-08.md) · [Part 10 →](part-10.md)
 
+## Contents
+- [Overview](#overview)
+- [Navigation](#navigation)
+
+## Overview
+
 **Score header:** `@title` · `@version` · `@date` · `@register` · `@anchor` · `@tempo`
 
 **Frame syntax:**
@@ -17,7 +23,7 @@ F1 :: ♩ ☁ drift— @4s
 **Transitions:** `>` forward · `<` recall · `⇄` dialogue · `↺` loop · `⇢/⇠` crossfade/cut.
 
 **Curtain:** `◎` baseline · `✶` memory · `⧈` unresolved.
-
+## Navigation
 
 ---
 [← Part 08](part-08.md) · [Home](../README.md) · [Part 10 →](part-10.md)

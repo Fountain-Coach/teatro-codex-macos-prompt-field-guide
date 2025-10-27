@@ -34,4 +34,12 @@ This folder contains small Teatro scores that demonstrate the language in contex
   - Light and mood counterpoint — see Part 08 (../parts/part-08.md)
   - Cut selection and rhythm — see Part 13 (../parts/part-13.md)
 
+## “Live Direction”
+- File: `Live-Direction.score.teatro`
+- Focus: real-time dialogue using meta-commands and conduction
+- Concepts illustrated:
+  - Meta-commands — see Part 06: Conversational Protocol (../parts/part-06.md)
+  - Conductor’s Layer — see Part 11 (../parts/part-11.md)
+  - Timeline control and rehearsal variants
+
 [Back to Summary](../SUMMARY.md) · [Home](../README.md)

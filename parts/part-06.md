@@ -2,6 +2,13 @@
 
 [Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 05](part-05.md) · [Part 07 →](part-07.md)
 
+## Contents
+- [Overview](#overview)
+- [Example](#example)
+- [Navigation](#navigation)
+
+## Overview
+
 **Roles:** Director (you), Codex (performer), Score (memory).
 
 **Meta-commands:**
@@ -11,7 +18,10 @@
 **Context anchors:** App (technical), Stage (visual), Affect (psychological).
 
 **Turn-taking:** Describe → Perform → Evaluate (keep/invert/amplify) → Iterate → Freeze/Branch.
+## Example
+See example: “Live Direction” (../examples/Live-Direction.score.teatro)
 
+## Navigation
 
 ---
 [← Part 05](part-05.md) · [Home](../README.md) · [Part 07 →](part-07.md)
