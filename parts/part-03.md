@@ -1,5 +1,7 @@
 # Part 03 — UX Semantics & Expression Layer
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 02](part-02.md) · [Part 04 →](part-04.md)
+
 **Themes:** emotional tone, semantic arcs, rhythm, spatial composition, material behavior, cognition.
 
 **Prompts:**

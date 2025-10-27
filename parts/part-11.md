@@ -1,5 +1,7 @@
 # Part 11 — The Conductor’s Layer (Real-Time Direction & Ensemble Coordination)
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 10](part-10.md) · [Part 12 →](part-12.md)
+
 **Session loop:** Call → Cue → Response → Critique → Commit → Transition
 
 **Tempo calls:** “Hold ♩” · “Push → ♬” · “Drop → 𝄐” · “Snap Cut”

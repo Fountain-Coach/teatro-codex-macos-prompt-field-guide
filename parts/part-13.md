@@ -1,5 +1,7 @@
 # Part 13 — Semantic Cinematography (Framing · Lens · Shot Composition · Perspective)
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 12](part-12.md) · [Part 14 →](part-14.md)
+
 **Framing:** WS/MS/CU/POV/OTS
 
 **Lens:** ƒ/1.4 (shallow) → ƒ/11 (deep); rack/pull/lock focus

@@ -1,5 +1,7 @@
 # Part 07 — Notation System for Local Workshops
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 06](part-06.md) · [Part 08 →](part-08.md)
+
 **Symbols:** ▶ start · ⏸ freeze · ↻ variant · ⇅ shift · ❖ anchor · ⟲ merge
 
 **Registers:** `T:` technical · `E:` expressive · `P:` psychological

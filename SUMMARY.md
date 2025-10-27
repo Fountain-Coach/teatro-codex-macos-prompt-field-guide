@@ -1,7 +1,9 @@
 # Summary (Table of Contents)
 
 - [README](README.md)
+- [Glossary](GLOSSARY.md)
 - [Quick Reference](quick-reference/teatro-quick-reference.md)
+- [Examples](examples/README.md)
 - Parts (I–XVI)
   - [Part I — macOS GUI Lingo 101 (Prompts only)](parts/part-01.md)
   - [Part II — Advanced GUI & System Interaction Lingo](parts/part-02.md)

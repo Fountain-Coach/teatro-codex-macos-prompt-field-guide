@@ -1,5 +1,7 @@
 # Part 01 — macOS GUI Lingo 101 (Prompts only)
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [Part 02 →](part-02.md)
+
 **Goal:** Speak to Codex in clear, compiler-style prompts for macOS GUI creation (no code).
 
 **Key prompts:**

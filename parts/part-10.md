@@ -1,5 +1,7 @@
 # Part 10 — Expressive Operators (Algebra of Meaning)
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 09](part-09.md) · [Part 11 →](part-11.md)
+
 **Operators:** ↑ amplify · ↓ dampen · ¬ invert · ∿ echo · ⊹ dissolve · ⧉ sharpen · ◌ blur · ↔ mirror · ⊕ merge · ⊖ split · ⊛ hybridize
 
 **Syntax:** `action ⟨operator⟩ target @modifier` e.g., `↑ light @2x`

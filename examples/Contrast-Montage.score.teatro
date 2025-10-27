@@ -1,0 +1,27 @@
+# Teatro Score: “Contrast Montage”
+@version 1.0
+@date 2025-10-27
+@palette contrast
+@tempo ♩
+@register expressive
+@anchor narrative
+
+ACT I — “Work”
+Scene A — “Clarity”
+@camera(MS)
+F1 :: ♩ ☀ steady — @2s
+    mood: focused
+    commentary: crisp form, direct action
+
+ACT I — “Rest”
+Scene B — “Softness”
+@camera(WS)
+F2 :: 𝄐 ☁ breathe ∨ @3s
+    mood: diffuse
+    commentary: space opens, gentle fade
+
+Montage — A ⇄ B (contrast)
+Cut :: jump → cross-fade → match
+Rhythm :: [1-2-4]
+Curtain — ✶
+

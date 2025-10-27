@@ -1,5 +1,7 @@
 # Part 14 — Narrative Montage & Cross-Scene Editing
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 13](part-13.md) · [Part 15 →](part-15.md)
+
 **Types:** continuity · contrast · intellectual · rhythmic · associative
 
 **Grammar:** `Scene A ⇄ Scene B` with `relation: contrast|echo|cause|memory`

@@ -1,5 +1,7 @@
 # Part 16 — Learnability Framework (Practice, Internalization, Recall)
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 15](part-15.md)
+
 **Spiral:** I Vocabulary → II Syntax → III Dialogue → IV Composition.
 
 **Daily 10 min:** warm-up cue → micro-scene → reflection.

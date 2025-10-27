@@ -1,5 +1,7 @@
 # Part 02 — Advanced GUI & System Interaction Lingo
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 01](part-01.md) · [Part 03 →](part-03.md)
+
 **Domains:** animation, gestures, drag/drop, accessibility, sandbox, multiwindow, menubar, testing.
 
 **Prompts:**

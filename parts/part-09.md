@@ -1,5 +1,7 @@
 # Part 09 — Teatro Score Format (Unified Composition Syntax)
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 08](part-08.md) · [Part 10 →](part-10.md)
+
 **Score header:** `@title` · `@version` · `@date` · `@register` · `@anchor` · `@tempo`
 
 **Frame syntax:**

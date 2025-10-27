@@ -1,5 +1,7 @@
 # Part 06 — Conversational Protocol (Dialogue, Anchoring & Meta-Commands)
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 05](part-05.md) · [Part 07 →](part-07.md)
+
 **Roles:** Director (you), Codex (performer), Score (memory).
 
 **Meta-commands:**

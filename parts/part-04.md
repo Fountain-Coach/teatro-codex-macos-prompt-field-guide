@@ -1,5 +1,7 @@
 # Part 04 — Teatro Style & Expressive Prompting
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 03](part-03.md) · [Part 05 →](part-05.md)
+
 **Stage metaphor:** stage, actors, cues, light, entrance/exit.
 
 **Prompts:**

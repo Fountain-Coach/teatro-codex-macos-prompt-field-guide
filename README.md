@@ -11,6 +11,7 @@ This repository packages the full **Teatro prompt language** we developed to con
 - `parts/` — Sixteen chapters (1–16) as focused guides.
 - `quick-reference/` — A concise one-pager for daily use.
 - `examples/` — Example Teatro score(s) to start from.
+- `GLOSSARY.md` — Core terms and symbols at a glance.
 - `SUMMARY.md` — Table of contents with links.
 - This `README.md` — How to use the material.
 
@@ -23,6 +24,7 @@ This repository packages the full **Teatro prompt language** we developed to con
 3. When exploring expressive design, read **[Part 8 – Stage Dynamics](parts/part-08.md)** and **[Part 10 – Expressive Operators](parts/part-10.md)**.
 4. When shaping narrative/flow, use **[Part 13 – Cinematography](parts/part-13.md)** and **[Part 14 – Montage](parts/part-14.md)**.
 5. To learn efficiently, follow **[Part 16 – Learnability Framework](parts/part-16.md)**.
+6. When in doubt about a symbol or term, check the **[Glossary](GLOSSARY.md)**.
 
 ---
 

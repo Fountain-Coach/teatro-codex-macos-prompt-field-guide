@@ -1,5 +1,7 @@
 # Part 15 — Integrative Summary (Map of the Whole Language)
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 14](part-14.md) · [Part 16 →](part-16.md)
+
 **Three planes:** Structural (what exists) · Expressive (how it behaves) · Cinematic (how it’s perceived).
 
 **Five anchors:** Stage · Light · Tempo · Camera · Montage.

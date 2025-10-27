@@ -1,0 +1,28 @@
+# Teatro Score: “Focus Shift”
+@version 1.0
+@date 2025-10-27
+@palette neutral
+@tempo ♩
+@register expressive
+@anchor perception
+
+ACT I — “Entry”
+Scene 1 — “Orientation”
+@camera(WS)
+F1 :: ♩ ☁ drift — @3s
+    commentary: establish space, low contrast
+
+ACT I — “Arrival”
+Scene 2 — “Attention”
+@camera(WS → MS)
+F2 :: ♪ ☀ pulse ∧ @2s
+    commentary: speed up response, brighten foreground
+    operator: ⧉ focus ↑ @1.5x
+
+ACT I — “Focus”
+Scene 3 — “Engage”
+@camera(MS → CU)
+F3 :: ♩ ☀ steady — @2s
+    commentary: settle into detail, sharpen edges
+Curtain — ◎
+

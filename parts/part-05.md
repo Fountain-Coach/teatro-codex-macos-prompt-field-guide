@@ -1,5 +1,7 @@
 # Part 05 — The Stage Lexicon (Technical ⇄ Theatrical)
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 04](part-04.md) · [Part 06 →](part-06.md)
+
 **Bilingual mapping:** SwiftUI terms ↔ Teatro metaphors.
 
 **Examples:**

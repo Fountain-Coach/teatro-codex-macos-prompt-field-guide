@@ -32,4 +32,4 @@ focus on stage · rehearse variant · freeze frame · shift register (technical/
 Scene A ⇄ Scene B (contrast/echo/cause/memory); ⏪/⏩; ∥; ∑ Δ ⟳ ∂; rhythm [1-2-4 | contrast | mood]
 
 
-[Back to Summary](../SUMMARY.md) · [Home](../README.md)
+[Back to Summary](../SUMMARY.md) · [Home](../README.md) · [Glossary](../GLOSSARY.md)

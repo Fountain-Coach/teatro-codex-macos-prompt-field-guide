@@ -1,5 +1,7 @@
 # Part 12 — Reflective Playback & Semantic Recording
 
+[Home](../README.md) · [Summary](../SUMMARY.md) · [← Part 11](part-11.md) · [Part 13 →](part-13.md)
+
 **Recording modes:** Chronicle · Condensed · Analytic · Affective
 
 **Playback:** `replay("Act I", @speed=1.0)` · `compare("v2","v3")` · `merge("v2","v3")`
