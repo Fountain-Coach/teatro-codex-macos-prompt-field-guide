@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -27,6 +28,13 @@ Curtain — ◎
 - Three planes unify: structural, expressive, cinematic.
 - Five anchors provide a compact mental model for direction.
 - The minimal stack expresses a complete scene with few gestures.
+
+Examples: [Still Reflection](../examples/Still-Reflection.score.teatro), [Focus Shift](../examples/Focus-Shift.score.teatro), [Contrast Montage](../examples/Contrast-Montage.score.teatro), [Live Direction](../examples/Live-Direction.score.teatro).
+
+## Try This
+- Express a feature using the minimal stack; keep it to 4–6 lines.
+- Label which plane (structural/expressive/cinematic) each line belongs to.
+- Map each line to one of the five anchors.
 ## Navigation
 
 ---

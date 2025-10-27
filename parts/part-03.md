@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -23,6 +24,13 @@
 - Treat UX as meaning over time (tone, arc, rhythm).
 - Use spatial composition and material behavior to guide attention.
 - Tie prompts to affect and cognition, not just layout.
+
+Examples: [Still Reflection](../examples/Still-Reflection.score.teatro) (tone, mood), [Contrast Montage](../examples/Contrast-Montage.score.teatro) (narrative arcs).
+
+## Try This
+- Write three tone statements (calm, alert, reflective) and map to cues.
+- Define a semantic arc from capture → organization → reflection.
+- Suggest a rhythm for feedback animations that reduces anxiety.
 ## Navigation
 
 ---

@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -19,6 +20,13 @@
 - Record artifacts in modes (chronicle/condensed/analytic/affective).
 - Replay, compare, and merge to evaluate design trajectories.
 - Track deltas and resonance to guide learning and iteration.
+
+Examples: [Live Direction](../examples/Live-Direction.score.teatro) (freeze/restore), [Contrast Montage](../examples/Contrast-Montage.score.teatro) (memory), [Still Reflection](../examples/Still-Reflection.score.teatro) (✶).
+
+## Try This
+- Record two variants; replay and compare to identify deltas and resonance.
+- Merge aspects of two recordings and annotate what improved.
+- Define a simple metric set and log observations per frame.
 
 **Archiving:** `archive("Name", tags=[…], format=.teatro)`
 ## Navigation

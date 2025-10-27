@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -29,6 +30,13 @@ F1 :: ♩ ☁ drift— @4s
 - Standardize scenes as Frames (F1…Fn) with concise gestures.
 - Use layers and transitions to compose simultaneous and sequential action.
 - Encode memory and resolution with recognizable curtain symbols.
+
+Examples: [Still Reflection](../examples/Still-Reflection.score.teatro), [Focus Shift](../examples/Focus-Shift.score.teatro), [Contrast Montage](../examples/Contrast-Montage.score.teatro).
+
+## Try This
+- Write a 3‑frame score with one layer and one transition.
+- Add a curtain symbol to mark memory or resolution.
+- Experiment with a loop (↺) and crossfade (⇢) between frames.
 ## Navigation
 
 ---

@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -19,6 +20,13 @@
 - Use framing, lens, and camera movement to direct perception.
 - Rack/pull focus as semantic attention shifts, not just visuals.
 - Choose moves and cuts to convey intent with minimal motion.
+
+Examples: [Focus Shift](../examples/Focus-Shift.score.teatro).
+
+## Try This
+- Plan a camera path WS → CU for a feature reveal; justify each step.
+- Choose lens (ƒ/1.4 vs ƒ/8) and describe depth-of-field implications.
+- Decide between pan vs dolly for the same shift and explain why.
 
 **Cuts:** straight · match · cross-fade · jump · dissolve; angles: top/side/back/under
 

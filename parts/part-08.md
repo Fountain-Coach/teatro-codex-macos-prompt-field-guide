@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -19,6 +20,13 @@
 - Core expressive grammar: tempo, light, motion, energy.
 - Combine verbs and curves to shape perceived effort and mood.
 - Use simple symbols to quickly direct dynamic behavior.
+
+Examples: [Still Reflection](../examples/Still-Reflection.score.teatro), [Focus Shift](../examples/Focus-Shift.score.teatro).
+
+## Try This
+- Define tempo/light/motion/energy for a notification appearing and resolving.
+- Invert a gesture (¬) and compare the perceived effect.
+- Contrast two tempos for the same scene: ♩ vs ♬.
 
 **Energy curves:** ∧ buildup · ∨ release · S delay→resolution · ~ oscillate · — steady
 

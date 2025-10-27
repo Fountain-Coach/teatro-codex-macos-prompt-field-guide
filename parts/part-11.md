@@ -6,6 +6,7 @@
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
 - [Example](#example)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -24,6 +25,11 @@
 **Emergency:** Stop Scene · Abort Cue · Silence stage (🌑, 𝄐) · Reset baseline
 ## Example
 See example: “Live Direction” (../examples/Live-Direction.score.teatro)
+
+## Try This
+- Call tempo changes: “Hold ♩”, “Push → ♬”, then evaluate.
+- Arrange two layers in counterpoint and coordinate a clean transition.
+- Critique → commit a frame, then move to the next cue.
 
 ## Navigation
 

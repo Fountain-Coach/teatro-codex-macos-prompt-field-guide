@@ -6,6 +6,7 @@
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
 - [Example](#example)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -26,6 +27,11 @@
 
 ## Example
 See example: “Live Direction” (../examples/Live-Direction.score.teatro)
+
+## Try This
+- Conduct a 5‑minute session: rehearse two variants, freeze and restore frames.
+- Shift register technical ↔ expressive to rephrase the same direction.
+- Compress timeline to iterate faster, then expand to assess pacing.
 
 ## Navigation
 

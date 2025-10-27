@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -19,6 +20,13 @@
 - A compact notation for local workshops and quick iteration.
 - Registers separate technical, expressive, and psychological layers.
 - Cues provide a shared shorthand for directing changes.
+
+Examples: [Focus Shift](../examples/Focus-Shift.score.teatro), [Still Reflection](../examples/Still-Reflection.score.teatro).
+
+## Try This
+- Write a micro‑scene with cues: @enter, @light, @tempo, @mood.
+- Use T/E/P registers to annotate technical vs expressive lines.
+- Combine two layers with simultaneous gestures.
 
 **Versioning:** v1/v2; ↓ return; ⟲ merge motifs. Keep compact workshop notes per act.
 ## Navigation

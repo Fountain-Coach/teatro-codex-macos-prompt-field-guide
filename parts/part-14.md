@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -19,6 +20,13 @@
 - Construct narrative meaning across scenes using montage relations.
 - Choose cut types and rhythm to control audience inference.
 - Blend parallel timelines and time compression/expansion.
+
+Examples: [Contrast Montage](../examples/Contrast-Montage.score.teatro).
+
+## Try This
+- Storyboard A ⇄ B with relation=contrast and rhythm [1‑2‑4].
+- Pick cut types (jump, cross‑fade, match) and justify choices.
+- Add a flashback (⏪) and describe how it changes interpretation.
 
 **Operators:** ∑ accumulate · Δ shift · ⟳ recur · ∂ partial echo
 

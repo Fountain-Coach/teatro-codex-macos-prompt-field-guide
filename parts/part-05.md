@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -22,6 +23,13 @@
 - Map SwiftUI and AppKit primitives to theatrical concepts.
 - Use the metaphor to discuss structure and behavior succinctly.
 - Keep mappings practical; prefer precise one-to-one correspondences.
+
+Examples: See the [Examples index](../examples/README.md); apply the lexicon to any score.
+
+## Try This
+- Map a feature (e.g., document search) to stage zones, actors, and cues.
+- Translate VStack/HStack/ZStack to blocking for a specific screen.
+- Label state as actors’ mood and shared dialogue lines.
 ## Navigation
 
 ---

@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -26,6 +27,13 @@
 - Contrast implicit vs explicit animations and responder chain roles.
 - Understand sandbox constraints for files and security-scoped bookmarks.
 - Manage multiwindow state sharing and menu bar app lifecycles.
+
+Examples: [Focus Shift](../examples/Focus-Shift.score.teatro) (tempo/animation), [Live Direction](../examples/Live-Direction.score.teatro) (protocol).
+
+## Try This
+- Describe an animated drag/drop import with implicit vs explicit animation.
+- Outline a MenuBarExtra app lifecycle and how to test menu commands.
+- Sketch the security‑scoped bookmark flow for recent documents.
 ## Navigation
 
 ---

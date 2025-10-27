@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -29,6 +30,13 @@
 - Structure prompts by Intent → Structure → Behavior → Context.
 - Name macOS targets and constraints (version, sandbox, menus).
 - Favor native SwiftUI primitives and standard app scenes.
+
+Examples: See the [Examples index](../examples/README.md) for orientation.
+
+## Try This
+- Write an Intent → Structure → Behavior → Context prompt for a 3‑pane editor.
+- Draft two prompt variants for the same UI; compare clarity and outcomes.
+- Ask for an NSOpenPanel flow in a sandboxed SwiftUI app.
 ## Navigation
 
 ---

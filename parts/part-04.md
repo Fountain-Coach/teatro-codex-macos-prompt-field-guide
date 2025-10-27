@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -21,6 +22,13 @@
 - Describe interfaces as staged performances (entrances/exits, cues).
 - Focus and light as spotlights; reduce to essential gestures.
 - Prefer expressive minimalism over decorative complexity.
+
+Examples: [Still Reflection](../examples/Still-Reflection.score.teatro), [Focus Shift](../examples/Focus-Shift.score.teatro).
+
+## Try This
+- Rewrite a cluttered UI as entrances/exits with a single spotlight of focus.
+- Describe how search focus moves like a spotlight across elements.
+- Remove decorative gestures; keep only those that carry meaning.
 ## Navigation
 
 ---

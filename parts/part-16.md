@@ -5,6 +5,7 @@
 ## Contents
 - [Overview](#overview)
 - [Key Ideas](#key-ideas)
+- [Try This](#try-this)
 - [Navigation](#navigation)
 
 ## Overview
@@ -23,6 +24,13 @@
 - Learn by spiraling vocabulary → syntax → dialogue → composition.
 - Short daily practice builds fluency; weeks provide thematic focus.
 - Use memory aids and reflection to internalize the language.
+
+Examples: Use any from [Examples](../examples/README.md) to structure practice.
+
+## Try This
+- Plan a 1‑week schedule using one example per day with a focus area.
+- Define a 10‑minute daily routine (one frame → reflect) and log gains.
+- Design a memory aid for operators and energy curves; test recall.
 ## Navigation
 
 ---
